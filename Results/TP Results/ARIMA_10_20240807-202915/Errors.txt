@@ -1,0 +1,40 @@
+========= Node 1 ==========
+Test MSE: 0.004
+Test RMSE: 0.062
+Test MAE: 0.046
+========= Node 2 ==========
+Test MSE: 0.004
+Test RMSE: 0.064
+Test MAE: 0.046
+========= Node 3 ==========
+Test MSE: 0.004
+Test RMSE: 0.063
+Test MAE: 0.046
+========= Node 4 ==========
+Test MSE: 0.004
+Test RMSE: 0.061
+Test MAE: 0.045
+========= Node 5 ==========
+Test MSE: 0.004
+Test RMSE: 0.062
+Test MAE: 0.045
+========= Node 6 ==========
+Test MSE: 0.004
+Test RMSE: 0.064
+Test MAE: 0.046
+========= Node 7 ==========
+Test MSE: 0.004
+Test RMSE: 0.064
+Test MAE: 0.046
+========= Node 8 ==========
+Test MSE: 0.004
+Test RMSE: 0.063
+Test MAE: 0.046
+========= Node 9 ==========
+Test MSE: 0.004
+Test RMSE: 0.064
+Test MAE: 0.047
+========= Node 10 ==========
+Test MSE: 0.005
+Test RMSE: 0.068
+Test MAE: 0.049

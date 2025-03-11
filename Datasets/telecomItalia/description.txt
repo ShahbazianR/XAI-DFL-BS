@@ -1,0 +1,30 @@
+I assume, based on the provided original description that I will atach to this text, the data includes the following characteristics:
+1) the regions are 15*15, which are in total 225 columns in the data. As data is in the pandas DF format, the columns represent
+the information gathered for each region, individually. The data in each element is the total traffic data, inclduing sms, call, and 
+internet traffic.
+
+2) Based on the data-time information provided on the website, the data is collected from 22:00 10/31/2013 to 22:50 12/19/2013.
+Thus, as the data is gathered in 10 minutes intervals, we can say that there are in total over 7200 elements in rows.
+However, the provided data has 7056 rows, which can be roughly considered representing the time intervals.  
+
+Overview of the downloaded data:
+            1          2          3          4          5          6          7    ...       219       220       221       222       223       224       225
+0     11.028366  11.058225  11.090008  10.941881   9.916548  11.090008  11.090008  ...  3.751674  3.751674  3.791065  3.955780  4.705657  4.838638  4.889980  
+1     11.100963  11.140570  11.182730  10.986241   9.966079  11.182730  11.182730  ...  3.055801  3.055801  3.188165  3.647656  4.404068  4.613529  4.786050  
+2     10.892771  10.915638  10.939979  10.826535   9.772990  10.939979  10.939979  ...  2.875313  2.875313  2.983047  3.390613  4.636227  4.891518  5.031936  
+3      8.622425   8.626340   8.630509   8.611082   7.860796   8.630509   8.630509  ...  2.932079  2.932079  2.998697  3.228372  3.579369  3.680791  3.767619  
+...         ...        ...        ...        ...        ...        ...        ...  ...       ...       ...       ...       ...       ...       ...       ...  
+7051  11.690077  11.729236  11.770919  11.576652  10.529376  11.770919  11.770919  ...  3.606908  3.606908  3.754427  4.333832  6.439500  6.842925  7.035201  
+7052  10.331813  10.374370  10.419670  10.208546   9.291981  10.419670  10.419670  ...  3.474089  3.474089  3.647378  4.353233  7.300256  7.837901  8.063763  
+7053   9.953010   9.989987  10.029348   9.845905   8.860300  10.029348  10.029348  ...  3.856655  3.856655  3.965394  4.466669  7.410666  7.895415  8.037144  
+7054  10.118270  10.176283  10.238035   9.950234   9.064521  10.238035  10.238035  ...  3.680110  3.680110  3.799716  4.262010  5.828982  6.137189  6.293083  
+7055   9.624156   9.660427   9.699037   9.519095   8.678711   9.699037   9.699037  ...  3.854351  3.854351  3.986715  4.488572  6.039848  6.356316  6.528837  
+
+[7056 rows x 225 columns]
+
+Description on the website:
+ABSTRACT 
+Telecom Italia: As part of the “Big Data Challenge”, consists of data about telecommunication activity in the city of Milan and in the province of Trentino. 
+Data collectors divide Milan into 100×100 regions, and all traffic data statistics are based on regions. 
+The total volume of SMS, call, and internet traffic sent and received by users in each area is collected every 10 minutes.
+ We sample the internet traffic data during the period from 22:00 10/31/2013 to 22:50 12/19/2013 with a cell area size of 15×15.

@@ -1,0 +1,15 @@
+
+Settings:
+BS stations: 10
+time_slot_window: 3
+Time_slot_window: 288
+Feature_size: 6
+
+Config:RL_Episodes: 1
+TP_Tepochs: 10
+TP_batchsize: 32
+DQN_update_frequency: 72
+DQN_target_frequency: 144
+TT_low_coefficient: 0.5
+TT_up_coefficient: 1.5
+initial_threshold: 0.5

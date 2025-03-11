@@ -1,0 +1,71 @@
+Colum 1 is being processed.
+Colum 2 is being processed.
+Colum 3 is being processed.
+Colum 4 is being processed.
+Colum 5 is being processed.
+Colum 6 is being processed.
+Colum 7 is being processed.
+Colum 8 is being processed.
+Colum 9 is being processed.
+Colum 10 is being processed.
+7056
+======= Base Station 1 =======
+Epoch Training: 100%|███████████████████████████████████████████████████████████████████████| 10/10 [00:14<00:00,  1.41s/it]
+Total_Avg_Loss:0.00703
+Test MSE: 0.010
+Test RMSE: 0.099
+Test MAE: 0.079
+======= Base Station 2 =======
+Epoch Training: 100%|███████████████████████████████████████████████████████████████████████| 10/10 [00:15<00:00,  1.60s/it]
+Total_Avg_Loss:0.00735
+Test MSE: 0.018
+Test RMSE: 0.135
+Test MAE: 0.114
+======= Base Station 3 =======
+Epoch Training: 100%|███████████████████████████████████████████████████████████████████████| 10/10 [00:15<00:00,  1.55s/it]
+Total_Avg_Loss:0.00650
+Test MSE: 0.017
+Test RMSE: 0.131
+Test MAE: 0.105
+======= Base Station 4 =======
+Epoch Training: 100%|███████████████████████████████████████████████████████████████████████| 10/10 [00:15<00:00,  1.58s/it]
+Total_Avg_Loss:0.00696
+Test MSE: 0.014
+Test RMSE: 0.119
+Test MAE: 0.096
+======= Base Station 5 =======
+Epoch Training: 100%|███████████████████████████████████████████████████████████████████████| 10/10 [00:14<00:00,  1.49s/it]
+Total_Avg_Loss:0.00650
+Test MSE: 0.012
+Test RMSE: 0.110
+Test MAE: 0.084
+======= Base Station 6 =======
+Epoch Training: 100%|███████████████████████████████████████████████████████████████████████| 10/10 [00:15<00:00,  1.57s/it]
+Total_Avg_Loss:0.00645
+Test MSE: 0.014
+Test RMSE: 0.120
+Test MAE: 0.095
+======= Base Station 7 =======
+Epoch Training: 100%|███████████████████████████████████████████████████████████████████████| 10/10 [00:14<00:00,  1.49s/it]
+Total_Avg_Loss:0.00713
+Test MSE: 0.017
+Test RMSE: 0.131
+Test MAE: 0.108
+======= Base Station 8 =======
+Epoch Training: 100%|███████████████████████████████████████████████████████████████████████| 10/10 [00:14<00:00,  1.48s/it]
+Total_Avg_Loss:0.00577
+Test MSE: 0.011
+Test RMSE: 0.103
+Test MAE: 0.084
+======= Base Station 9 =======
+Epoch Training: 100%|███████████████████████████████████████████████████████████████████████| 10/10 [00:15<00:00,  1.51s/it]
+Total_Avg_Loss:0.00612
+Test MSE: 0.017
+Test RMSE: 0.130
+Test MAE: 0.103
+======= Base Station 10 =======
+Epoch Training: 100%|███████████████████████████████████████████████████████████████████████| 10/10 [00:15<00:00,  1.53s/it]
+Total_Avg_Loss:0.00787
+Test MSE: 0.007
+Test RMSE: 0.084
+Test MAE: 0.066

@@ -1,0 +1,7 @@
+
+Settings:
+BS stations: 30
+Time_slot_Step: 3
+Time_slot_window: 288
+Feature_size: 6
+Sleep prob: 0.5

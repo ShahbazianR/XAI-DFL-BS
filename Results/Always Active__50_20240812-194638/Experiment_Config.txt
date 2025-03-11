@@ -1,0 +1,6 @@
+
+Settings:
+BS stations: 50
+Time_slot_Step: 3
+Time_slot_window: 288
+Feature_size: 6

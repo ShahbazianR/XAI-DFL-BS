@@ -1,0 +1,41 @@
+
+Validation Results (Summary):
+======= Base Station 0 =======
+Average Cost values (Evaluation) >> tensor([0.6582, 0.0560, 0.0072], dtype=torch.float64)
+Normalized Average Cost values (Evaluation) >> tensor([0.9963, 0.0847, 0.0110], dtype=torch.float64)
+======= Base Station 1 =======
+Average Cost values (Evaluation) >> tensor([0.6622, 0.0557, 0.0072], dtype=torch.float64)
+Normalized Average Cost values (Evaluation) >> tensor([0.9964, 0.0838, 0.0109], dtype=torch.float64)
+======= Base Station 2 =======
+Average Cost values (Evaluation) >> tensor([0.6626, 0.0558, 0.0072], dtype=torch.float64)
+Normalized Average Cost values (Evaluation) >> tensor([0.9964, 0.0839, 0.0109], dtype=torch.float64)
+======= Base Station 3 =======
+Average Cost values (Evaluation) >> tensor([0.6614, 0.0556, 0.0078], dtype=torch.float64)
+Normalized Average Cost values (Evaluation) >> tensor([0.9964, 0.0838, 0.0117], dtype=torch.float64)
+======= Base Station 4 =======
+Average Cost values (Evaluation) >> tensor([0.6630, 0.0558, 0.0077], dtype=torch.float64)
+Normalized Average Cost values (Evaluation) >> tensor([0.9964, 0.0839, 0.0115], dtype=torch.float64)
+======= Base Station 5 =======
+Average Cost values (Evaluation) >> tensor([0.6624, 0.0558, 0.0072], dtype=torch.float64)
+Normalized Average Cost values (Evaluation) >> tensor([0.9964, 0.0839, 0.0109], dtype=torch.float64)
+======= Base Station 6 =======
+Average Cost values (Evaluation) >> tensor([0.6624, 0.0558, 0.0072], dtype=torch.float64)
+Normalized Average Cost values (Evaluation) >> tensor([0.9964, 0.0839, 0.0109], dtype=torch.float64)
+======= Base Station 7 =======
+Average Cost values (Evaluation) >> tensor([0.6624, 0.0558, 0.0072], dtype=torch.float64)
+Normalized Average Cost values (Evaluation) >> tensor([0.9964, 0.0839, 0.0109], dtype=torch.float64)
+======= Base Station 8 =======
+Average Cost values (Evaluation) >> tensor([0.6624, 0.0558, 0.0072], dtype=torch.float64)
+Normalized Average Cost values (Evaluation) >> tensor([0.9964, 0.0839, 0.0109], dtype=torch.float64)
+======= Base Station 9 =======
+Average Cost values (Evaluation) >> tensor([0.6814, 0.0613, 0.0078], dtype=torch.float64)
+Normalized Average Cost values (Evaluation) >> tensor([0.9959, 0.0896, 0.0114], dtype=torch.float64)
+==============================
+
+Energy Average: 0.6638532532985414
+QoS Average: 0.05632143368690292
+Switching Average: 0.007382978723404256
+
+Normalized Energy Average: 0.996358965279236
+Normalized QoS Average: 0.08451655231998326
+Normalized Switching Average: 0.011080088311840704
